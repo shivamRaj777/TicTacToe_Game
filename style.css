@@ -3,7 +3,7 @@
     padding: 0;
 }
 body{
-    background:linear-gradient(to left, lightyellow,lightgreen);
+    background:linear-gradient(to left, lightyellow,rgb(70, 205, 70));
     text-align: center;
 }
 
